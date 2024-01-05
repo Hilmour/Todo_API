@@ -1,4 +1,4 @@
-<h2>Todos API</h2>
+# Todo API
 
 # Application Installation and Usage Instructions
 - Clone the repository/download the zip file
