@@ -9,7 +9,7 @@
 - Create a JWT token: Firstly enter "node" in the terminal, Then "require('crypto').randomBytes(64).toString('hex')"
 - Copy the token and paste it into the .env file as the value for TOKEN_SECRET
 - Run 'npm start' in the terminal to start the server
-- NOTE: Application needs to started (npm start), then cancelled(control + c), then started again(npm start) for statuses to appear.
+- NOTE: Application needs to started (npm start), then cancelled(control + c), then started again(npm start) for statuses to appear. (Current issue with the application)
 
 Testing with Postman:
 - Signup and login with a user using the POST method.
